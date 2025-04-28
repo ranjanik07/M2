@@ -1,3 +1,8 @@
+NAME :
+RANJANI K
+
+REGISTER NUMBER:
+212224230220
 # EX-06 - Looping
 ## AIM:
 Write a C program to print even numbers ranging from M to N (including M and N values).
@@ -13,8 +18,18 @@ Write a C program to print even numbers ranging from M to N (including M and N v
 
 ## PROGRAM:
 
+![image](https://github.com/user-attachments/assets/75e576a8-04db-40ce-be99-7aad414d5f25)
+
+INPUT:
+
+![image](https://github.com/user-attachments/assets/ce47cda2-c5a1-4a1b-9809-8359b31612ea)
+
+
+
 ## OUTPUT:
 
+
+![image](https://github.com/user-attachments/assets/34b90d54-7433-4d81-b792-7f72b6aa3b9b)
 
 
 
@@ -46,9 +61,16 @@ Write a C program to print the given triangular pattern using loop.
 
 ## PROGRAM:
 
+![image](https://github.com/user-attachments/assets/3e45a8ce-881f-4e58-be16-bf6875f12410)
+INPUT:
+
+
+![image](https://github.com/user-attachments/assets/62723b50-f981-4c88-b436-9374c26b17a8)
 
 ## OUTPUT:
 
+
+![image](https://github.com/user-attachments/assets/de820dd8-fe56-4997-95b7-9043e293565a)
 
 
 
@@ -75,8 +97,17 @@ Write a C program to perform addition and subtraction of two numbers using funct
 
 ## PROGRAM:
 
+![image](https://github.com/user-attachments/assets/c076d5f0-f7fd-4f72-9f66-69d98dc0046c)
+
+INPUT:
+
+
+![image](https://github.com/user-attachments/assets/426a463c-4654-4854-89b2-dca37e4a24ac)
+
 
 ## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/498a0d15-6eca-4909-a013-5ea2c5823ac0)
 
 
 
@@ -107,9 +138,18 @@ Write a c program to find the sum of odd digits using for loop
 
 ## PROGRAM:
 
+![image](https://github.com/user-attachments/assets/eda81fd2-a6ab-48ba-b580-bac9eeb9305b)
+
+INPUT:
+
+
+![image](https://github.com/user-attachments/assets/24594d56-d5b2-4ee1-b766-3f167f61b583)
+
 
 ## OUTPUT:
 
+
+![image](https://github.com/user-attachments/assets/6c078566-47f1-4176-b3eb-2c56e09c0168)
 
 
 
