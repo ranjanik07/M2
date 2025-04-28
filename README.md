@@ -62,8 +62,8 @@ Write a C program to print the given triangular pattern using loop.
 ## PROGRAM:
 
 ![image](https://github.com/user-attachments/assets/3e45a8ce-881f-4e58-be16-bf6875f12410)
-INPUT:
 
+INPUT:
 
 ![image](https://github.com/user-attachments/assets/62723b50-f981-4c88-b436-9374c26b17a8)
 
@@ -176,9 +176,13 @@ d.	After the loop, print the factorial value.
 5.	End
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/5e52c553-1f8e-410a-910c-6b1d2cde8569)
+INPUT:
 
+![image](https://github.com/user-attachments/assets/1214a047-e0fb-458a-9722-ba2136b4d5d8)
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/f5d70d0e-fba5-4518-8f00-fdc3665e4eb4)
 
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
